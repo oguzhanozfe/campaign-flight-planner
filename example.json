@@ -1,0 +1,41 @@
+{
+  "daily_capacity": 3,
+  "booked": [
+    {
+      "id": "Launch film",
+      "audience": "New members",
+      "start": "2026-10-05",
+      "days": 2,
+      "units": 2
+    }
+  ],
+  "flights": [
+    {
+      "id": "Proof cut",
+      "audience": "New members",
+      "earliest": "2026-10-05",
+      "latest_end": "2026-10-10",
+      "days": 2,
+      "units": 2,
+      "priority": 5
+    },
+    {
+      "id": "Founder cut",
+      "audience": "Lapsed members",
+      "earliest": "2026-10-05",
+      "latest_end": "2026-10-07",
+      "days": 2,
+      "units": 1,
+      "priority": 4
+    },
+    {
+      "id": "Pack trial",
+      "audience": "Lapsed members",
+      "earliest": "2026-10-05",
+      "latest_end": "2026-10-06",
+      "days": 2,
+      "units": 2,
+      "priority": 1
+    }
+  ]
+}

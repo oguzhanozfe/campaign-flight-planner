@@ -1,0 +1,16 @@
+{
+  "action": "Schedule Proof cut for 2026-10-07 through 2026-10-08",
+  "id": "place:Proof cut",
+  "linked_source_records": [
+    "request:Proof cut"
+  ],
+  "choices": {
+    "place:Proof cut": ""
+  },
+  "artifacts": {
+    "creative-flights.ics": {
+      "sha256": "a5389741fccefe7b2425f187e75b068339802ae06053eafc446e152ec7291d3e",
+      "changed_by_approval": true
+    }
+  }
+}
