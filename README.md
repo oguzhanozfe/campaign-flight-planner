@@ -2,11 +2,13 @@
 
 Schedule multi-day creative flights inside allowed windows and export approved placements to iCalendar.
 
-[![Verify](https://github.com/oguzhanozfe/campaign-flight-planner/actions/workflows/check.yml/badge.svg)](https://github.com/oguzhanozfe/campaign-flight-planner/actions/workflows/check.yml) · [Deploy to Render](https://render.com/deploy?repo=https://github.com/oguzhanozfe/campaign-flight-planner) · [Input guide](GUIDE.md)
+**[Open the live demo](https://oguzhanozfe.github.io/campaign-flight-planner/)** · [![Verify](https://github.com/oguzhanozfe/campaign-flight-planner/actions/workflows/check.yml/badge.svg)](https://github.com/oguzhanozfe/campaign-flight-planner/actions/workflows/check.yml) · [Deploy to Render](https://render.com/deploy?repo=https://github.com/oguzhanozfe/campaign-flight-planner) · [Input guide](GUIDE.md)
 
 Several creatives compete for the same audience on the same days. Fit flights into their permitted windows and hand the approved placements to a shared calendar.
 
 ![Example result for Campaign Flight Planner](docs/result.png)
+
+The live demo lets you edit the input, search proposed changes with an on-device model and download the result. [Browser demo details](demo/DEMO.md)
 
 ## Try it
 

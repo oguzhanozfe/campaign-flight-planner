@@ -1,0 +1,14 @@
+{
+  "model": "gemma-4-e4b-it",
+  "provider": "local",
+  "source_sha256": "583e3478d37138eb94eb933587c9071860ec726170a26b8e3e555b15e4e4c54f",
+  "considered": 2,
+  "total": 2,
+  "recommendations": [
+    {
+      "id": "place:Proof cut",
+      "evidence_id": "request:Proof cut",
+      "why": "The request shows rejection due to Audience overlap, indicating capacity constraints must be revisited before scheduling this flight between 2026-10-07 and 2026-10-08."
+    }
+  ]
+}
